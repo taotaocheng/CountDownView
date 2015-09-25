@@ -1,4 +1,6 @@
 # CountDownView
+
++![TimePicker](https://github.com/chenxiruanhai/CountDownView/blob/master/CountDownView.jpg)
 倒计时组件     支持 XX分XX秒 格式的倒计时。
 
    支持 XX分XX秒 格式的倒计时
