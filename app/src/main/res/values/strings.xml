@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CountDownView</string>
+    <string name="count_down_default_format">%1$s分%2$s秒</string>
+    <string name="user_confirm_countdown"><![CDATA[自定义倒计时样式：<font size=\"3\" color=\"red\">%1$s </font>分<font size=\"3\" color=\"red\">%2$s</font> 秒]]></string>
+</resources>
